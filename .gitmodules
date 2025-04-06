@@ -4,3 +4,6 @@
 [submodule "sci-phy"]
 	path = sci-phy
 	url = git@github.com:field-4d/sci-phy.git
+[submodule "cloud"]
+	path = cloud
+	url = git@github.com:field-4d/cloud.git
