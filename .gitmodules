@@ -1,3 +1,6 @@
 [submodule "iot"]
 	path = iot
 	url = git@github.com:field-4d/iot.git
+[submodule "sci-phy"]
+	path = sci-phy
+	url = git@github.com:field-4d/sci-phy.git
